@@ -21,3 +21,4 @@ LEFT JOIN sector s ON
 GROUP BY
     vp.sector_id
 
+
