@@ -12,4 +12,5 @@
     + a) For the month of May 2021, how many brochures (use unique title) started (`pfrom`) per Sector
         + :point_right: [03a-brochures-sector-may2021.sql](./03a-brochures-sector-may2021.sql) :point_left:
     + b) For the month of December 2020, which sector had the most active brochures (`pfrom` till `puntil`)
+        + :point_right: [03b-brochures-activity-dec2020.sql](./03b-brochures-activity-dec2020.sql) :point_left:
 
