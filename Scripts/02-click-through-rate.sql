@@ -5,8 +5,6 @@ SELECT
     s.name AS sector_name,
     -- Sum up all the clicks and impressions
     SUM(ci.clicks) AS clicks,
-    SUM(ci.reached_user) AS reached_user,
-    -- Unsure what this number represents
     SUM(ci.impressions) AS impressions,
     -- Calculate Click-Through-Rate and round to two digits
     ROUND(SUM(ci.clicks)/ SUM(ci.impressions) * 100, 2) AS CTR
