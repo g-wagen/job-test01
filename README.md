@@ -1,4 +1,4 @@
-# Bonial Job Interview
+# A Job Interview Test
 ## SQL Tasks - Data Analyst
 1. Create a View
     + The `sector_id` column in the `publisher` table has a wrong data format
